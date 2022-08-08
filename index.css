@@ -18,7 +18,7 @@ div.grid-container {
   flex-direction: column;
   grid-template-columns: auto;
   width: 360px;
-  margin-top: 100px;
+  margin-top: 10px;
 }
 /********************* Top Section of the card ********************/
 div.grid-item1 {
